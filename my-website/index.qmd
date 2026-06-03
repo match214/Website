@@ -4,12 +4,12 @@ about:
   template: jolla
   image: "PIC Headshot 2 2026.04.14.jpg"
   links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app
+#    - icon: bluesky
+#      text: Bluesky
+#      href: https://bsky.app
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/match214
 ---
 
 ### Meet Matt.
