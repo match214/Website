@@ -5,27 +5,21 @@ format: html
 
 ## Education
 
-Doctorate Degree
+**Doctorate Degree**
 
-Planning and Public Affairs
-
-University of Oregon
+Planning and Public Affairs \| University of Oregon
 
 2024-Present \| GPA 3.88
 
-Graduate Degree
+**Graduate Degree**
 
-Public Administration
-
-San Francisco State University
+Public Administration \| San Francisco State University
 
 2013-2015 \| GPA 3.87
 
-Undergraduate Degree 
+**Undergraduate Degree** 
 
-Political Science
-
-UC Santa Barbara
+Political Science \| UC Santa Barbara
 
 2008 - 2011 \| GPA 3.37
 
