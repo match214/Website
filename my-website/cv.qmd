@@ -6,7 +6,29 @@ editor: visual
 
 ## Education
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Doctorate Degree
+
+Planning and Public Affairs
+
+University of Oregon
+
+2024-Present \| GPA 3.88
+
+Graduate Degree
+
+Public Administration
+
+San Francisco State University
+
+2013-2015 \| GPA 3.87
+
+Undergraduate Degree 
+
+Political Science
+
+UC Santa Barbara
+
+2008 - 2011 \| GPA 3.37
 
 ## Experience
 

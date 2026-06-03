@@ -1,5 +1,11 @@
 {
   "about.qmd": {
     "about.html": "45ba12b7"
+  },
+  "cv.qmd": {
+    "cv.html": "9ba62573"
+  },
+  "index.qmd": {
+    "index.html": "3ed2e50a"
   }
 }
