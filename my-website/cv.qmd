@@ -1,7 +1,6 @@
 ---
 title: "CV"
 format: html
-editor: visual
 ---
 
 ## Education
@@ -33,7 +32,7 @@ UC Santa Barbara
 ## Work Experience
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------+
-| Research Assistant, 2024-Present                                                                                                                 |
+| **Research Assistant, 2024-Present**                                                                                                             |
 |                                                                                                                                                  |
 | University of Oregon, Eugene, OR                                                                                                                 |
 |                                                                                                                                                  |
@@ -45,7 +44,7 @@ UC Santa Barbara
 |                                                                                                                                                  |
 | -   Co-design survey research instruments                                                                                                        |
 |                                                                                                                                                  |
-| PPPM Student Teacher, 2024-Present                                                                                                               |
+| **PPPM Student Teacher, 2024-Present**                                                                                                           |
 |                                                                                                                                                  |
 | University of Oregon, Eugene, OR                                                                                                                 |
 |                                                                                                                                                  |
@@ -59,7 +58,7 @@ UC Santa Barbara
 |                                                                                                                                                  |
 | -   Guest Lecture: Intro to Public Policy, Inclusive Urbanism, Intro to City Planning                                                            |
 |                                                                                                                                                  |
-| Agricultural Preservation Specialist, 2020 - 2024                                                                                                |
+| **Agricultural Preservation Specialist, 2020 - 2024**                                                                                            |
 |                                                                                                                                                  |
 | County of Kent, Grand Rapids, MI                                                                                                                 |
 |                                                                                                                                                  |
@@ -73,7 +72,7 @@ UC Santa Barbara
 |                                                                                                                                                  |
 | -   Supported County officials in strategizing collaborative regional planning for density and open space                                        |
 |                                                                                                                                                  |
-| Assistant Management Analyst, 2017 - 2019                                                                                                        |
+| **Assistant Management Analyst, 2017 - 2019**                                                                                                    |
 |                                                                                                                                                  |
 | City of Berkeley, Berkeley, CA                                                                                                                   |
 |                                                                                                                                                  |
