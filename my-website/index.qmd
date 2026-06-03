@@ -20,17 +20,22 @@ Matt is a doctoral student in the department of Planning, Public Policy and Mana
 
 ## Education
 
-University of Oregon, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of Oregon | Eugene, OR
+PhD in Planning and Public Affairs | Sept 2024 - Present
 
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
+San Francisco State University | San Francisco, CA
+M.A in Public Administration | Sept 2013 - Dec 2015
 
-## Experience
+## Publications
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+AV & Land Use | UCLA Mobility Center of Excellence | https://escholarship.org/uc/item/5wd2d9pm
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
+Learning from Housing Policy Innovation in Small and Midsize Cities Engaging the Community in Zoning Reform: Lessons from Oregon | SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400779
+
+
+
+
+
 
 :::
 
