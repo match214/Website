@@ -2,7 +2,7 @@
 title: "Home"
 about:
   template: jolla
-  image: profile.jpg
+  image: "PIC Headshot 2 2026.04.14.jpg"
   links:
     - icon: bluesky
       text: Bluesky
