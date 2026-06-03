@@ -30,7 +30,7 @@ UC Santa Barbara
 
 2008 - 2011 \| GPA 3.37
 
-## Experience
+## Work Experience
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------+
 | Research Assistant, 2024-Present                                                                                                                 |
@@ -45,19 +45,19 @@ UC Santa Barbara
 |                                                                                                                                                  |
 | -   Co-design survey research instruments                                                                                                        |
 |                                                                                                                                                  |
-| \                                                                                                                                                |
-|                                                                                                                                                  |
 | PPPM Student Teacher, 2024-Present                                                                                                               |
 |                                                                                                                                                  |
 | University of Oregon, Eugene, OR                                                                                                                 |
 |                                                                                                                                                  |
-| -   Quantitative Research Methods, F24, S25                                                                                                      |
+| -   Quantitative Research Methods, F24, S25, F25                                                                                                 |
 |                                                                                                                                                  |
 | -   Intro to Public Policy, W25                                                                                                                  |
 |                                                                                                                                                  |
-| -   Guest Lecture: Intro to Public Policy, Inclusive Urbanism                                                                                    |
+| -   Intro to City Planning S26, F26                                                                                                              |
 |                                                                                                                                                  |
-| \                                                                                                                                                |
+| -   Intro to Healthy Communities W27                                                                                                             |
+|                                                                                                                                                  |
+| -   Guest Lecture: Intro to Public Policy, Inclusive Urbanism, Intro to City Planning                                                            |
 |                                                                                                                                                  |
 | Agricultural Preservation Specialist, 2020 - 2024                                                                                                |
 |                                                                                                                                                  |
@@ -72,8 +72,6 @@ UC Santa Barbara
 | <!-- -->                                                                                                                                         |
 |                                                                                                                                                  |
 | -   Supported County officials in strategizing collaborative regional planning for density and open space                                        |
-|                                                                                                                                                  |
-| \                                                                                                                                                |
 |                                                                                                                                                  |
 | Assistant Management Analyst, 2017 - 2019                                                                                                        |
 |                                                                                                                                                  |
@@ -129,5 +127,3 @@ UC Santa Barbara
 +--------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                                                                                                  |
 +--------------------------------------------------------------------------------------------------------------------------------------------------+
-
-The `echo: false` option disables the printing of code (only output is displayed).
