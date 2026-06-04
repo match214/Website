@@ -119,6 +119,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#replication-study" id="toc-replication-study" class="nav-link active" data-scroll-target="#replication-study">Replication Study</a></li>
+  <li><a href="#spatial-regression" id="toc-spatial-regression" class="nav-link" data-scroll-target="#spatial-regression">Spatial Regression</a></li>
   </ul>
 </nav>
     </div>
@@ -772,6 +773,16 @@ ul.task-list li input[type="checkbox"] {
 <p>Table 2: Average Population under 18 and Threshold</p>
 <p><img src="images/clipboard-2856840155.png" class="img-fluid"></p>
 <p><a href="https://github.com/match214/Replication_Study.git" class="uri">https://github.com/match214/Replication_Study.git</a></p>
+</section>
+<section id="spatial-regression" class="level2">
+<h2 class="anchored" data-anchor-id="spatial-regression">Spatial Regression</h2>
+<p>Perform a geographically weighted regression (8.4) using the same variables as Walker, but for a different MSA of focus.</p>
+<p>Figure 1 creates a geographically weighted regression model for explaining median housing value. The model for explaining median housing value is not uniformly distributed across the nine-county region of the San Francisco Bay. For the most part, the model either does well or poorly. It appears to do quite well in the far East Bay (Contra Costa County) and the Peninsula (San Mateo County). It does poorly in the South Bay (Santa Clara County). The results are mixed in the North Bay (Marin, Napa, Solano, and Sonoma Counties) as well as in the City and County San Francisco. This could be a result of the substantial geographic variation in housing markets forcing the model to explain too much.</p>
+<p>Figure 1: Geographically Weighted Regression</p>
+<p><img src="images/clipboard-1815809775.png" class="img-fluid"></p>
+<p>In Figure 2, the clusters reveal how similar tracts may be across the geographies of the nine-counties. The clusters aggregate spaces with similar effects of the variables on the median housing value. Many of the peripheral areas are rural and sparsely populated and fall under cluster 1. These areas tend to cohere around clusters 2 and 3, with occasional interruptions of cluster 5. Clusters 4 and 6 are more isolated from others, existing in the most parts of the densest cities, San Francisco and San José.</p>
+<p>Figure 2: K-Means Cluster</p>
+<p><img src="images/clipboard-1068010762.png" class="img-fluid"></p>
 
 
 </section>
