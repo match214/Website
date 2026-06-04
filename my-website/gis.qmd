@@ -151,8 +151,27 @@ Figure 3 presents the count of people under 18 across Sonoma County. The north, 
 
 Figure 3: Distribution of and County of people under 18
 
-![Exploratory Data Analysis](images/clipboard-3916933587.png)
+![\
+](images/clipboard-3916933587.png)
+
+## Exploratory Data Analysis
+
+This lab was the introduction to the R Studio environment and basic visualizations.
+
+Figure 1 shows a population pyramid for the California by gender.
+
+Figure 1: Population Pyramid
 
 ![](images/clipboard-3372825492.png)
 
-![![](images/clipboard-3068064416.png)](images/clipboard-3546555487.png)
+Figure 2 shows the median income range per county in California. General trends show that more urbanized counties have higher incomes in tighter ranges and rural counties have lower incomes. However, there are two counties, Alpine and Mono which hug the east side of the Sierra Nevadas that present large ranges in variation.
+
+Figure 2: Median Houshold Income by County
+
+![](images/clipboard-3546555487.png)
+
+Figure 3 compares the cities with the highest proportion of commuters that use public transit. New York leads with about 33% of its commuters taking public transit followed by San Francisco at about 18%.
+
+Figure 3: Proportion of Public Transportation Commute
+
+![](images/clipboard-3068064416.png)
