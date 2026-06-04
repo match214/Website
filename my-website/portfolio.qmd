@@ -7,7 +7,7 @@ format: html
 
 For this assignment, I had to deconstruct a journal article, rerun their case study selection on a different chosen geography, and complete a descriptive analysis on this new area of interest.
 
-I received a peer-reviewed journal article with a few different geographies/scales to choose from.I then deconstructed their variables (e.g., what population thresholds do they classify as high-density urban), taking those measures and applying them to a metropolitan area of my choice. On the newly defined landscape, I needed descriptive analyses to describe the demographic characteristics of that place. 
+I received a peer-reviewed journal article with a few different geographies/scales to choose from. I then deconstructed their variables (e.g., what population thresholds do they classify as high-density urban), taking those measures and applying them to a metropolitan area of my choice. On the newly defined landscape, I needed descriptive analyses to describe the demographic characteristics of that place. 
 
 I chose to examine the Greater Cleveland metropolitan area. The metropolitan area has a population of about 2.2 million people, as of the 2020 census. Cleveland, the largest city within the metro at about 370,000 people, anchors the region on the south shore of Lake Erie, while the rest of the metro radiates outward. As a whole, the region has a median income of about \$46,000 with about 15% of people living below the poverty line. Demographically, the area is approximately 71% White, 20% Black, 5% Hispanic/Latino, 2% broadly Asian, with the remaining comprised of two or more races, Native Americans and Alaskan Natives. Gender differences are almost evenly split, with about 52% of the population identifying as female and 48% as male.
 
