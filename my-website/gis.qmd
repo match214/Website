@@ -47,6 +47,8 @@ Figure 6: Log Density and Population Under 18
 
 Figure 7: Log Density and Population Under 18 by Threshold
 
+![](images/clipboard-3475435792.png)
+
 Table 1 provides tests of significance for the three models. Although there appears to be some level of association between the variables used in Figure 5, 6, and 7, the model summary table indicates that none were significant at any level. This is likely due to the large amount of variation of the percent of children within each tract at similar densities. What we can learn from this is that density of the urban environment is not a strong predictor for the population breakdown with regard to the number of children.
 
 Table 1: Model Summaries
@@ -162,5 +164,7 @@ Table 1: Model Summaries
 Figure 6 compares the thresholds against the average density and presents the a similar conclusion to Table 1. There is significant variation in the proportion of a tracts population that is under 18. Although this is particularly true in the urban high category, each category experiences high variation.
 
 Table 2: Average Population under 18 and Threshold
+
+![](images/clipboard-2856840155.png)
 
 <https://github.com/match214/Replication_Study.git>
