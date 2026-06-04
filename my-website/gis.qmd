@@ -151,4 +151,8 @@ Figure 3 presents the count of people under 18 across Sonoma County. The north, 
 
 Figure 3: Distribution of and County of people under 18
 
-![](images/clipboard-3916933587.png)
+![Exploratory Data Analysis](images/clipboard-3916933587.png)
+
+![](images/clipboard-3372825492.png)
+
+![![](images/clipboard-3068064416.png)](images/clipboard-3546555487.png)
