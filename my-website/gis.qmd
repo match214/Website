@@ -52,7 +52,7 @@ Table 1 provides tests of significance for the three models. Although there appe
 Table 1: Model Summaries
 
 |  |  |  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|----|----|
+|-------|-------------------|-------|-------|-------|-------|-------|-------|-------|
 |  |  |  |  |  |  |  |  |  |
 |  |  |  | model1 |  | model2 |  | model3 |  |
 |  |  |  |  |  |  |  |  |  |
@@ -130,3 +130,25 @@ In Figure 2, the clusters reveal how similar tracts may be across the geographie
 Figure 2: K-Means Cluster
 
 ![](images/clipboard-1068010762.png)
+
+## Visualizing Census Data
+
+For a lab, I had to download various 2020 Census data and map them.
+
+Figure 1 presents median income by county in California. It shows that the
+
+Figure 1: Median Income by County
+
+![](images/clipboard-2449182646.png)
+
+Figure 2 shows the distribution of four racial categories across Conoma County.
+
+Figure 2: Racial Distribution
+
+![](images/clipboard-294041286.png)
+
+Figure 3 presents the count of people under 18 across Sonoma County. The north, west and east parts of the county are more rural and generally have fewer young people. What could improve this map would be a presentation of the percent of the young people of the total population within the area.
+
+Figure 3: Distribution of and County of people under 18
+
+![](images/clipboard-3916933587.png)
