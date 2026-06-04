@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Doctorate Degree\nPlanning and Public Affairs | University of Oregon\n2024-Present | GPA 3.88\nGraduate Degree\nPublic Administration | San Francisco State University\n2013-2015 | GPA 3.87\nUndergraduate Degree \nPolitical Science | UC Santa Barbara\n2008 - 2011 | GPA 3.37"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Doctorate Degree\nPlanning and Public Affairs | University of Oregon\n2024-Present | GPA 3.88\nGraduate Degree\nPublic Administration | San Francisco State University\n2013-2015 | GPA 3.87\nUndergraduate Degree \nPolitical Science | UC Santa Barbara\n2008 - 2011 | GPA 3.37"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\nAV & Land Use | UCLA Mobility Center of Excellence | https://escholarship.org/uc/item/5wd2d9pm\nLearning from Housing Policy Innovation in Small and Midsize Cities Engaging the Community in Zoning Reform: Lessons from Oregon | SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400779"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "CV",
+    "section": "Work Experience",
+    "text": "Work Experience\nResearch Assistant, 2024-2025\nUniversity of Oregon, Eugene, OR\n\nConduct literature review for housing and autonmous vehivles\nInterview research subjects\nManage data for thematic coding\nCo-design survey research instruments\n\nPPPM Student Teacher, 2024-Present\nUniversity of Oregon, Eugene, OR\n\nQuantitative Research Methods, F24, S25, F25\nIntro to Public Policy, W25\nIntro to City Planning S26, F26\nIntro to Healthy Communities W27\n\nGuest Lecture: Intro to Public Policy, Inclusive Urbanism, Intro to City Planning\nAgricultural Preservation Specialist, 2020 - 2024\nCounty of Kent, Grand Rapids, MI\n\nReviewed township zoning ordinances and maps for compatibility with County land use goals and program fit\nPresented program information, population data, and land use considerations to elected officials, appointed boards, and public townhalls\nSupported County officials in strategizing collaborative regional planning for density and open space\n\nAssistant Management Analyst, 2017 - 2019\nCity of Berkeley, Berkeley, CA\n\nDetermined address service area using mapping software\nManaged grants investing in the urban tree canopy\nReviewed parks ordinances with concerned public and elected officials for food production and temporary shelters caused by housing shortages"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -21,109 +49,11 @@
     "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Doctorate Degree\nPlanning and Public Affairs | University of Oregon\n2024-Present | GPA 3.88\nGraduate Degree\nPublic Administration | San Francisco State University\n2013-2015 | GPA 3.87\nUndergraduate Degree \nPolitical Science | UC Santa Barbara\n2008 - 2011 | GPA 3.37"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "",
-    "text": "Doctorate Degree\nPlanning and Public Affairs | University of Oregon\n2024-Present | GPA 3.88\nGraduate Degree\nPublic Administration | San Francisco State University\n2013-2015 | GPA 3.87\nUndergraduate Degree \nPolitical Science | UC Santa Barbara\n2008 - 2011 | GPA 3.37"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "CV",
-    "section": "Experience",
-    "text": "Experience\n\n\n\n\n\n\nResearch Assistant, 2024-Present\nUniversity of Oregon, Eugene, OR\n\nConduct literature review\nInterview research subjects\nManage data for thematic coding\nCo-design survey research instruments\n\n\n\nPPPM Student Teacher, 2024-Present\nUniversity of Oregon, Eugene, OR\n\nQuantitative Research Methods, F24, S25\nIntro to Public Policy, W25\nGuest Lecture: Intro to Public Policy, Inclusive Urbanism\n\n\n\nAgricultural Preservation Specialist, 2020 - 2024\nCounty of Kent, Grand Rapids, MI\n\nReviewed township zoning ordinances and maps for compatibility with County land use goals and program fit\n\n\n\nPresented program information, population data, and land use considerations to elected officials, appointed boards, and public townhalls\n\n\n\nSupported County officials in strategizing collaborative regional planning for density and open space\n\n\n\nAssistant Management Analyst, 2017 - 2019\nCity of Berkeley, Berkeley, CA\n\nDetermined address service area using mapping software\n\n\n\nManaged grants investing in the urban tree canopy\n\n\n\nReviewed parks ordinances with concerned public and elected officials for food production and temporary shelters caused by housing shortages\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
     "text": "Meet Matt"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Home",
-    "section": "",
-    "text": "University of Oregon | Eugene, OR PhD in Planning and Public Affairs | Sept 2024 - Present\nSan Francisco State University | San Francisco, CA M.A in Public Administration | Sept 2013 - Dec 2015"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Home",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "cv.html#work-experience",
-    "href": "cv.html#work-experience",
-    "title": "CV",
-    "section": "Work Experience",
-    "text": "Work Experience\nResearch Assistant, 2024-2025\nUniversity of Oregon, Eugene, OR\n\nConduct literature review for housing and autonmous vehivles\nInterview research subjects\nManage data for thematic coding\nCo-design survey research instruments\n\nPPPM Student Teacher, 2024-Present\nUniversity of Oregon, Eugene, OR\n\nQuantitative Research Methods, F24, S25, F25\nIntro to Public Policy, W25\nIntro to City Planning S26, F26\nIntro to Healthy Communities W27\n\nGuest Lecture: Intro to Public Policy, Inclusive Urbanism, Intro to City Planning\nAgricultural Preservation Specialist, 2020 - 2024\nCounty of Kent, Grand Rapids, MI\n\nReviewed township zoning ordinances and maps for compatibility with County land use goals and program fit\nPresented program information, population data, and land use considerations to elected officials, appointed boards, and public townhalls\nSupported County officials in strategizing collaborative regional planning for density and open space\n\nAssistant Management Analyst, 2017 - 2019\nCity of Berkeley, Berkeley, CA\n\nDetermined address service area using mapping software\nManaged grants investing in the urban tree canopy\nReviewed parks ordinances with concerned public and elected officials for food production and temporary shelters caused by housing shortages"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Home",
-    "section": "",
-    "text": "AV & Land Use | UCLA Mobility Center of Excellence | https://escholarship.org/uc/item/5wd2d9pm\nLearning from Housing Policy Innovation in Small and Midsize Cities Engaging the Community in Zoning Reform: Lessons from Oregon | SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400779"
-  },
-  {
-    "objectID": "index.html#education-1",
-    "href": "index.html#education-1",
-    "title": "Home",
-    "section": "Education",
-    "text": "Education\nUniversity of Oregon | Eugene, OR PhD in Planning and Public Affairs | Sept 2024 - Present\nSan Francisco State University | San Francisco, CA M.A in Public Administration | Sept 2013 - Dec 2015"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "CV",
-    "section": "Publications",
-    "text": "Publications\nAV & Land Use | UCLA Mobility Center of Excellence | https://escholarship.org/uc/item/5wd2d9pm\nLearning from Housing Policy Innovation in Small and Midsize Cities Engaging the Community in Zoning Reform: Lessons from Oregon | SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400779"
-  },
-  {
-    "objectID": "gis.html",
-    "href": "gis.html",
-    "title": "GIS Portfolio",
-    "section": "",
-    "text": "I chose to examine the Greater Cleveland metropolitan area. The metropolitan area has a population of about 2.2 million people, as of the 2020 census. Cleveland, the largest city within the metro at about 370,000 people, anchors the region on the south shore of Lake Erie, while the rest of the metro radiates outward. As a whole, the region has a median income of about $46,000 with about 15% of people living below the poverty line. Demographically, the area is approximately 71% White, 20% Black, 5% Hispanic/Latino, 2% broadly Asian, with the remaining comprised of two or more races, Native Americans and Alaskan Natives. Gender differences are almost evenly split, with about 52% of the population identifying as female and 48% as male.\nFigure 1 shows the spatial distribution of population density follows a pattern radiating out from Cleveland. Generally, the thresholds move from most dense to least dense the farther away they are from the central city. This creates a concentric ring effect where lower-density rings surround higher ones, a pattern seen throughout the country resulting from suburbanization. That said, with the thresholds structured as they are, the graph loses deeper nuance that might show subtler differences between the thresholds.\nFigure 1Map of Population Thresholds\n\nFigures 2 and 3 compare the populations between the suburban and urban thresholds by male and female genders.\nFigure 2 shows the suburban distribution having relatively equal younger (under 24) and older (over 65) people. However, there is a trend, starting at about 40 years old of increasing people until 65, when it drops off steeply. This could indicate a relocation out of the suburbs, fitting existing cultural norms of retirement in warm weather. Figure 3, shows the urban distribution having roughly equal populations, with bulges in the 25 to 29 range and 55 to 64 range. After 64, there is a marked drop off in people 65 years old and over.\nFigure 2: Suburban Population Pyramid\n\nFigure 3: Urban Population Pyramid\n\nFigure 4: Map of Population Under 18 shows the proportion of Census tracts population that is under 18, across the metropolitan area. This indicates there are some rough spatial patterns, with a ring of higher percent around the core city, followed by a ring of lower percent, and then another higher one.\nFigure 4: Map of Population Under 18\n\nTo test the relationship between tract density and proportion of children, I ran three regressions. Figures 5, 6, and 7 show regressions of the relationship between a tract’s density and its percent of the population under 18 years old.\n\nFigure 5 depicts Model 1, a simple linear regression that indicates a slight negative relationship with extreme variation in the percent of under 18-year-olds in tracts of comparable density. Figure 6 provides a regression with a log of the density variable to build Model 2 and indicates a slight positive relationship, again with extreme amounts of variation. Finally, Figure 7 constructed Model 3 by separating the densities by thresholds and shows slight positive relationships for the non-urban spaces and negative ones for the urban ones.\nFigure 5: Density and Population under 18\n\nFigure 6: Log Density and Population Under 18\n\nFigure 7: Log Density and Population Under 18 by Threshold\n\nTable 1 provides tests of significance for the three models. Although there appears to be some level of association between the variables used in Figure 5, 6, and 7, the model summary table indicates that none were significant at any level. This is likely due to the large amount of variation of the percent of children within each tract at similar densities. What we can learn from this is that density of the urban environment is not a strong predictor for the population breakdown with regard to the number of children.\nTable 1: Model Summaries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmodel1\n\nmodel2\n\nmodel3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntercept\n\n0.21***\n\n0.19***\n\n0.10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.00)\n\n(0.02)\n\n(0.39)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTract Density\n\n-0.00\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.00)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density\n\n\n\n0.00\n\n0.02\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.00)\n\n(0.07)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuburban (Low)\n\n\n\n\n\n-0.17\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.57)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuburban (High)\n\n\n\n\n\n-0.20\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.96)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrban (Low)\n\n\n\n\n\n0.57\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.45)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrban (High)\n\n\n\n\n\n0.13\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.39)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density × Suburban (Low)\n\n\n\n\n\n0.03\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.10)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density × Suburban (High)\n\n\n\n\n\n0.03\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.15)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density × Urban (Low)\n\n\n\n\n\n-0.08\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.08)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density × Urban (High)\n\n\n\n\n\n-0.02\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.07)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNum.Obs.\n\n574\n\n574\n\n574\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR2\n\n0.001\n\n0.001\n\n0.012\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n+ p &lt; 0.1, * p &lt; 0.05, ** p &lt; 0.01, *** p &lt; 0.001\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 6 compares the thresholds against the average density and presents the a similar conclusion to Table 1. There is significant variation in the proportion of a tracts population that is under 18. Although this is particularly true in the urban high category, each category experiences high variation.\nTable 2: Average Population under 18 and Threshold\n\nhttps://github.com/match214/Replication_Study.git"
-  },
-  {
-    "objectID": "gis.html#replication-study",
-    "href": "gis.html#replication-study",
-    "title": "GIS Portfolio",
-    "section": "",
-    "text": "I chose to examine the Greater Cleveland metropolitan area. The metropolitan area has a population of about 2.2 million people, as of the 2020 census. Cleveland, the largest city within the metro at about 370,000 people, anchors the region on the south shore of Lake Erie, while the rest of the metro radiates outward. As a whole, the region has a median income of about $46,000 with about 15% of people living below the poverty line. Demographically, the area is approximately 71% White, 20% Black, 5% Hispanic/Latino, 2% broadly Asian, with the remaining comprised of two or more races, Native Americans and Alaskan Natives. Gender differences are almost evenly split, with about 52% of the population identifying as female and 48% as male.\nFigure 1 shows the spatial distribution of population density follows a pattern radiating out from Cleveland. Generally, the thresholds move from most dense to least dense the farther away they are from the central city. This creates a concentric ring effect where lower-density rings surround higher ones, a pattern seen throughout the country resulting from suburbanization. That said, with the thresholds structured as they are, the graph loses deeper nuance that might show subtler differences between the thresholds.\nFigure 1Map of Population Thresholds\n\nFigures 2 and 3 compare the populations between the suburban and urban thresholds by male and female genders.\nFigure 2 shows the suburban distribution having relatively equal younger (under 24) and older (over 65) people. However, there is a trend, starting at about 40 years old of increasing people until 65, when it drops off steeply. This could indicate a relocation out of the suburbs, fitting existing cultural norms of retirement in warm weather. Figure 3, shows the urban distribution having roughly equal populations, with bulges in the 25 to 29 range and 55 to 64 range. After 64, there is a marked drop off in people 65 years old and over.\nFigure 2: Suburban Population Pyramid\n\nFigure 3: Urban Population Pyramid\n\nFigure 4: Map of Population Under 18 shows the proportion of Census tracts population that is under 18, across the metropolitan area. This indicates there are some rough spatial patterns, with a ring of higher percent around the core city, followed by a ring of lower percent, and then another higher one.\nFigure 4: Map of Population Under 18\n\nTo test the relationship between tract density and proportion of children, I ran three regressions. Figures 5, 6, and 7 show regressions of the relationship between a tract’s density and its percent of the population under 18 years old.\n\nFigure 5 depicts Model 1, a simple linear regression that indicates a slight negative relationship with extreme variation in the percent of under 18-year-olds in tracts of comparable density. Figure 6 provides a regression with a log of the density variable to build Model 2 and indicates a slight positive relationship, again with extreme amounts of variation. Finally, Figure 7 constructed Model 3 by separating the densities by thresholds and shows slight positive relationships for the non-urban spaces and negative ones for the urban ones.\nFigure 5: Density and Population under 18\n\nFigure 6: Log Density and Population Under 18\n\nFigure 7: Log Density and Population Under 18 by Threshold\n\nTable 1 provides tests of significance for the three models. Although there appears to be some level of association between the variables used in Figure 5, 6, and 7, the model summary table indicates that none were significant at any level. This is likely due to the large amount of variation of the percent of children within each tract at similar densities. What we can learn from this is that density of the urban environment is not a strong predictor for the population breakdown with regard to the number of children.\nTable 1: Model Summaries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmodel1\n\nmodel2\n\nmodel3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntercept\n\n0.21***\n\n0.19***\n\n0.10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.00)\n\n(0.02)\n\n(0.39)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTract Density\n\n-0.00\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.00)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density\n\n\n\n0.00\n\n0.02\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.00)\n\n(0.07)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuburban (Low)\n\n\n\n\n\n-0.17\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.57)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuburban (High)\n\n\n\n\n\n-0.20\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.96)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrban (Low)\n\n\n\n\n\n0.57\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.45)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrban (High)\n\n\n\n\n\n0.13\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.39)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density × Suburban (Low)\n\n\n\n\n\n0.03\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.10)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density × Suburban (High)\n\n\n\n\n\n0.03\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.15)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density × Urban (Low)\n\n\n\n\n\n-0.08\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.08)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog Density × Urban (High)\n\n\n\n\n\n-0.02\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(0.07)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNum.Obs.\n\n574\n\n574\n\n574\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR2\n\n0.001\n\n0.001\n\n0.012\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n+ p &lt; 0.1, * p &lt; 0.05, ** p &lt; 0.01, *** p &lt; 0.001\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 6 compares the thresholds against the average density and presents the a similar conclusion to Table 1. There is significant variation in the proportion of a tracts population that is under 18. Although this is particularly true in the urban high category, each category experiences high variation.\nTable 2: Average Population under 18 and Threshold\n\nhttps://github.com/match214/Replication_Study.git"
-  },
-  {
-    "objectID": "gis.html#spatial-regression",
-    "href": "gis.html#spatial-regression",
-    "title": "GIS Portfolio",
-    "section": "Spatial Regression",
-    "text": "Spatial Regression\nFor a lab, I had to perform two regressions for an MSA. I chose to analyze median housing value in the San Francisco Bay Area.\nFigure 1 creates a geographically weighted regression model for explaining median housing value. The model for explaining median housing value is not uniformly distributed across the nine-county region of the San Francisco Bay. For the most part, the model either does well or poorly. It appears to do quite well in the far East Bay (Contra Costa County) and the Peninsula (San Mateo County). It does poorly in the South Bay (Santa Clara County). The results are mixed in the North Bay (Marin, Napa, Solano, and Sonoma Counties) as well as in the City and County San Francisco. This could be a result of the substantial geographic variation in housing markets forcing the model to explain too much.\nFigure 1: Geographically Weighted Regression\n\nIn Figure 2, the clusters reveal how similar tracts may be across the geographies of the nine-counties. The clusters aggregate spaces with similar effects of the variables on the median housing value. Many of the peripheral areas are rural and sparsely populated and fall under cluster 1. These areas tend to cohere around clusters 2 and 3, with occasional interruptions of cluster 5. Clusters 4 and 6 are more isolated from others, existing in the most parts of the densest cities, San Francisco and San José.\nFigure 2: K-Means Cluster"
-  },
-  {
-    "objectID": "gis.html#visualizing-census-data",
-    "href": "gis.html#visualizing-census-data",
-    "title": "GIS Portfolio",
-    "section": "Visualizing Census Data",
-    "text": "Visualizing Census Data\nFor a lab, I had to download various 2020 Census data and map them.\nFigure 1 presents median income by county in California. It shows that the\nFigure 1: Median Income by County\n\nFigure 2 shows the distribution of four racial categories across Conoma County.\nFigure 2: Racial Distribution\n\nFigure 3 presents the count of people under 18 across Sonoma County. The north, west and east parts of the county are more rural and generally have fewer young people. What could improve this map would be a presentation of the percent of the young people of the total population within the area.\nFigure 3: Distribution of and County of people under 18"
-  },
-  {
-    "objectID": "gis.html#exploratory-data-analysis",
-    "href": "gis.html#exploratory-data-analysis",
-    "title": "GIS Portfolio",
-    "section": "Exploratory Data Analysis",
-    "text": "Exploratory Data Analysis\nThis lab was the introduction to the R Studio environment and basic visualizations.\nFigure 1 shows a population pyramid for the California by gender.\nFigure 1: Population Pyramid\n\nFigure 2 shows the median income range per county in California. General trends show that more urbanized counties have higher incomes in tighter ranges and rural counties have lower incomes. However, there are two counties, Alpine and Mono which hug the east side of the Sierra Nevadas that present large ranges in variation.\nFigure 2: Median Houshold Income by County\n\nFigure 3 compares the cities with the highest proportion of commuters that use public transit. New York leads with about 33% of its commuters taking public transit followed by San Francisco at about 18%.\nFigure 3: Proportion of Public Transportation Commute"
   },
   {
     "objectID": "portfolio.html",
