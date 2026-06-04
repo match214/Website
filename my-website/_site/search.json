@@ -110,5 +110,19 @@
     "title": "GIS Portfolio",
     "section": "Spatial Regression",
     "text": "Spatial Regression\nFor a lab, I had to perform two regressions for an MSA. I chose to analyze median housing value in the San Francisco Bay Area.\nFigure 1 creates a geographically weighted regression model for explaining median housing value. The model for explaining median housing value is not uniformly distributed across the nine-county region of the San Francisco Bay. For the most part, the model either does well or poorly. It appears to do quite well in the far East Bay (Contra Costa County) and the Peninsula (San Mateo County). It does poorly in the South Bay (Santa Clara County). The results are mixed in the North Bay (Marin, Napa, Solano, and Sonoma Counties) as well as in the City and County San Francisco. This could be a result of the substantial geographic variation in housing markets forcing the model to explain too much.\nFigure 1: Geographically Weighted Regression\n\nIn Figure 2, the clusters reveal how similar tracts may be across the geographies of the nine-counties. The clusters aggregate spaces with similar effects of the variables on the median housing value. Many of the peripheral areas are rural and sparsely populated and fall under cluster 1. These areas tend to cohere around clusters 2 and 3, with occasional interruptions of cluster 5. Clusters 4 and 6 are more isolated from others, existing in the most parts of the densest cities, San Francisco and San José.\nFigure 2: K-Means Cluster"
+  },
+  {
+    "objectID": "gis.html#visualizing-census-data",
+    "href": "gis.html#visualizing-census-data",
+    "title": "GIS Portfolio",
+    "section": "Visualizing Census Data",
+    "text": "Visualizing Census Data\nFor a lab, I had to download various 2020 Census data and map them.\nFigure 1 presents median income by county in California. It shows that the\nFigure 1: Median Income by County\n\nFigure 2 shows the distribution of four racial categories across Conoma County.\nFigure 2: Racial Distribution\n\nFigure 3 presents the count of people under 18 across Sonoma County. The north, west and east parts of the county are more rural and generally have fewer young people. What could improve this map would be a presentation of the percent of the young people of the total population within the area.\nFigure 3: Distribution of and County of people under 18"
+  },
+  {
+    "objectID": "gis.html#exploratory-data-analysis",
+    "href": "gis.html#exploratory-data-analysis",
+    "title": "GIS Portfolio",
+    "section": "Exploratory Data Analysis",
+    "text": "Exploratory Data Analysis\nThis lab was the introduction to the R Studio environment and basic visualizations.\nFigure 1 shows a population pyramid for the California by gender.\nFigure 1: Population Pyramid\n\nFigure 2 shows the median income range per county in California. General trends show that more urbanized counties have higher incomes in tighter ranges and rural counties have lower incomes. However, there are two counties, Alpine and Mono which hug the east side of the Sierra Nevadas that present large ranges in variation.\nFigure 2: Median Houshold Income by County\n\nFigure 3 compares the cities with the highest proportion of commuters that use public transit. New York leads with about 33% of its commuters taking public transit followed by San Francisco at about 18%.\nFigure 3: Proportion of Public Transportation Commute"
   }
 ]
