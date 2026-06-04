@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>CV – Matthew S. Channing</title>
+<title>Portfolio – Matthew S. Channing</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -95,11 +95,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page"> 
+    <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./portfolio.html"> 
+    <a class="nav-link active" href="./portfolio.html" aria-current="page"> 
 <span class="menu-text">Portfolio</span></a>
   </li>  
 </ul>
@@ -118,9 +118,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
-  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
-  <li><a href="#work-experience" id="toc-work-experience" class="nav-link" data-scroll-target="#work-experience">Work Experience</a></li>
+  <li><a href="#replication-study" id="toc-replication-study" class="nav-link active" data-scroll-target="#replication-study">Replication Study</a></li>
+  <li><a href="#spatial-regression" id="toc-spatial-regression" class="nav-link" data-scroll-target="#spatial-regression">Spatial Regression</a></li>
+  <li><a href="#visualizing-census-data" id="toc-visualizing-census-data" class="nav-link" data-scroll-target="#visualizing-census-data">Visualizing Census Data</a></li>
+  <li><a href="#exploratory-data-analysis" id="toc-exploratory-data-analysis" class="nav-link" data-scroll-target="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
   </ul>
 </nav>
     </div>
@@ -129,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">CV</h1>
+<h1 class="title">Portfolio</h1>
 </div>
 
 
@@ -146,56 +147,678 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<p><strong>Doctorate Degree</strong></p>
-<p>Planning and Public Affairs | University of Oregon</p>
-<p>2024-Present | GPA 3.88</p>
-<p><strong>Graduate Degree</strong></p>
-<p>Public Administration | San Francisco State University</p>
-<p>2013-2015 | GPA 3.87</p>
-<p><strong>Undergraduate Degree</strong>&nbsp;</p>
-<p>Political Science | UC Santa Barbara</p>
-<p>2008 - 2011 | GPA 3.37</p>
+<section id="replication-study" class="level2">
+<h2 class="anchored" data-anchor-id="replication-study">Replication Study</h2>
+<p>For this assignment, I had to deconstruct a journal article, rerun their case study selection on a different chosen geography, and complete a descriptive analysis on this new area of interest.</p>
+<p>I received a peer-reviewed journal article with a few different geographies/scales to choose from. I then deconstructed their variables (e.g., what population thresholds do they classify as high-density urban), taking those measures and applying them to a metropolitan area of my choice. On the newly defined landscape, I needed descriptive analyses to describe the demographic characteristics of that place.&nbsp;</p>
+<p>I chose to examine the Greater Cleveland metropolitan area. The metropolitan area has a population of about 2.2 million people, as of the 2020 census. Cleveland, the largest city within the metro at about 370,000 people, anchors the region on the south shore of Lake Erie, while the rest of the metro radiates outward. As a whole, the region has a median income of about $46,000 with about 15% of people living below the poverty line. Demographically, the area is approximately 71% White, 20% Black, 5% Hispanic/Latino, 2% broadly Asian, with the remaining comprised of two or more races, Native Americans and Alaskan Natives. Gender differences are almost evenly split, with about 52% of the population identifying as female and 48% as male.</p>
+<p>Figure 1 shows the spatial distribution of population density follows a pattern radiating out from Cleveland. Generally, the thresholds move from most dense to least dense the farther away they are from the central city. This creates a concentric ring effect where lower-density rings surround higher ones, a pattern seen throughout the country resulting from suburbanization. That said, with the thresholds structured as they are, the graph loses deeper nuance that might show subtler differences between the thresholds.</p>
+<p>Figure 1Map of Population Thresholds</p>
+<p><img src="images/clipboard-3659331584.png" class="img-fluid"></p>
+<p>Figures 2 and 3 compare the populations between the suburban and urban thresholds by male and female genders.</p>
+<p>Figure 2 shows the suburban distribution having relatively equal younger (under 24) and older (over 65) people. However, there is a trend, starting at about 40 years old of increasing people until 65, when it drops off steeply. This could indicate a relocation out of the suburbs, fitting existing cultural norms of retirement in warm weather. Figure 3, shows the urban distribution having roughly equal populations, with bulges in the 25 to 29 range and 55 to 64 range. After 64, there is a marked drop off in people 65 years old and over.</p>
+<p>Figure 2: Suburban Population Pyramid</p>
+<p><img src="images/clipboard-913840341.png" class="img-fluid"></p>
+<p>Figure 3: Urban Population Pyramid</p>
+<p><img src="images/clipboard-3527915811.png" class="img-fluid"></p>
+<p>Figure 4: Map of Population Under 18 shows the proportion of Census tracts population that is under 18, across the metropolitan area. This indicates there are some rough spatial patterns, with a ring of higher percent around the core city, followed by a ring of lower percent, and then another higher one.</p>
+<p>Figure 4: Map of Population Under 18</p>
+<p><img src="images/clipboard-1812931491.png" class="img-fluid"></p>
+<p>To test the relationship between tract density and proportion of children, I ran three regressions. Figures 5, 6, and 7 show regressions of the relationship between a tract’s density and its percent of the population under 18 years old.<br>
+</p>
+<p>Figure 5 depicts Model 1, a simple linear regression that indicates a slight negative relationship with extreme variation in the percent of under 18-year-olds in tracts of comparable density. Figure 6 provides a regression with a log of the density variable to build Model 2 and indicates a slight positive relationship, again with extreme amounts of variation. Finally, Figure 7 constructed Model 3 by separating the densities by thresholds and shows slight positive relationships for the non-urban spaces and negative ones for the urban ones.</p>
+<p>Figure 5: Density and Population under 18</p>
+<p><img src="images/clipboard-2141510715.png" class="img-fluid"></p>
+<p>Figure 6: Log Density and Population Under 18</p>
+<p><img src="images/clipboard-4245318354.png" class="img-fluid"></p>
+<p>Figure 7: Log Density and Population Under 18 by Threshold</p>
+<p><img src="images/clipboard-3475435792.png" class="img-fluid"></p>
+<p>Table 1 provides tests of significance for the three models. Although there appears to be some level of association between the variables used in Figure 5, 6, and 7, the model summary table indicates that none were significant at any level. This is likely due to the large amount of variation of the percent of children within each tract at similar densities. What we can learn from this is that density of the urban environment is not a strong predictor for the population breakdown with regard to the number of children.</p>
+<p>Table 1: Model Summaries</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 9%">
+<col style="width: 25%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>model1</td>
+<td></td>
+<td>model2</td>
+<td></td>
+<td>model3</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Intercept</td>
+<td></td>
+<td>0.21***</td>
+<td></td>
+<td>0.19***</td>
+<td></td>
+<td>0.10</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>(0.00)</td>
+<td></td>
+<td>(0.02)</td>
+<td></td>
+<td>(0.39)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Tract Density</td>
+<td></td>
+<td>-0.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>(0.00)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Log Density</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0.00</td>
+<td></td>
+<td>0.02</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>(0.00)</td>
+<td></td>
+<td>(0.07)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Suburban (Low)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-0.17</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>(0.57)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Suburban (High)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-0.20</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>(0.96)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Urban (Low)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0.57</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>(0.45)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Urban (High)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0.13</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>(0.39)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Log Density × Suburban (Low)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0.03</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>(0.10)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Log Density × Suburban (High)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0.03</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>(0.15)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Log Density × Urban (Low)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-0.08</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>(0.08)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Log Density × Urban (High)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-0.02</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>(0.07)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Num.Obs.</td>
+<td></td>
+<td>574</td>
+<td></td>
+<td>574</td>
+<td></td>
+<td>574</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>R2</td>
+<td></td>
+<td>0.001</td>
+<td></td>
+<td>0.001</td>
+<td></td>
+<td>0.012</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>+ p &lt; 0.1, * p &lt; 0.05, ** p &lt; 0.01, *** p &lt; 0.001</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Figure 6 compares the thresholds against the average density and presents the a similar conclusion to Table 1. There is significant variation in the proportion of a tracts population that is under 18. Although this is particularly true in the urban high category, each category experiences high variation.</p>
+<p>Table 2: Average Population under 18 and Threshold</p>
+<p><img src="images/clipboard-2856840155.png" class="img-fluid"></p>
+<p><a href="https://github.com/match214/Replication_Study.git" class="uri">https://github.com/match214/Replication_Study.git</a></p>
 </section>
-<section id="publications" class="level2">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<p>AV &amp; Land Use | UCLA Mobility Center of Excellence | <a href="https://escholarship.org/uc/item/5wd2d9pm" class="uri">https://escholarship.org/uc/item/5wd2d9pm</a></p>
-<p>Learning from Housing Policy Innovation in Small and Midsize Cities Engaging the Community in Zoning Reform: Lessons from Oregon | SSRN | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400779" class="uri">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400779</a></p>
+<section id="spatial-regression" class="level2">
+<h2 class="anchored" data-anchor-id="spatial-regression">Spatial Regression</h2>
+<p>For a lab, I had to perform two regressions for an MSA. I chose to analyze median housing value in the San Francisco Bay Area.</p>
+<p>Figure 1 creates a geographically weighted regression model for explaining median housing value. The model for explaining median housing value is not uniformly distributed across the nine-county region of the San Francisco Bay. For the most part, the model either does well or poorly. It appears to do quite well in the far East Bay (Contra Costa County) and the Peninsula (San Mateo County). It does poorly in the South Bay (Santa Clara County). The results are mixed in the North Bay (Marin, Napa, Solano, and Sonoma Counties) as well as in the City and County San Francisco. This could be a result of the substantial geographic variation in housing markets forcing the model to explain too much.</p>
+<p>Figure 1: Geographically Weighted Regression</p>
+<p><img src="images/clipboard-1815809775.png" class="img-fluid"></p>
+<p>In Figure 2, the clusters reveal how similar tracts may be across the geographies of the nine-counties. The clusters aggregate spaces with similar effects of the variables on the median housing value. Many of the peripheral areas are rural and sparsely populated and fall under cluster 1. These areas tend to cohere around clusters 2 and 3, with occasional interruptions of cluster 5. Clusters 4 and 6 are more isolated from others, existing in the most parts of the densest cities, San Francisco and San José.</p>
+<p>Figure 2: K-Means Cluster</p>
+<p><img src="images/clipboard-1068010762.png" class="img-fluid"></p>
 </section>
-<section id="work-experience" class="level2">
-<h2 class="anchored" data-anchor-id="work-experience">Work Experience</h2>
-<p><strong>Research Assistant, 2024-2025</strong></p>
-<p>University of Oregon, Eugene, OR</p>
-<ul>
-<li><p>Conduct literature review for housing and autonmous vehivles</p></li>
-<li><p>Interview research subjects</p></li>
-<li><p>Manage data for thematic coding</p></li>
-<li><p>Co-design survey research instruments</p></li>
-</ul>
-<p><strong>PPPM Student Teacher, 2024-Present</strong></p>
-<p>University of Oregon, Eugene, OR</p>
-<ul>
-<li><p>Quantitative Research Methods, F24, S25, F25</p></li>
-<li><p>Intro to Public Policy, W25</p></li>
-<li><p>Intro to City Planning S26, F26</p></li>
-<li><p>Intro to Healthy Communities W27</p></li>
-</ul>
-<p>Guest Lecture: Intro to Public Policy, Inclusive Urbanism, Intro to City Planning</p>
-<p><strong>Agricultural Preservation Specialist, 2020 - 2024</strong></p>
-<p>County of Kent, Grand Rapids, MI</p>
-<p>Reviewed township zoning ordinances and maps for compatibility with County land use goals and program fit</p>
-<!-- -->
-<p>Presented program information, population data, and land use considerations to elected officials, appointed boards, and public townhalls</p>
-<!-- -->
-<p>Supported County officials in strategizing collaborative regional planning for density and open space</p>
-<p><strong>Assistant Management Analyst, 2017 - 2019</strong></p>
-<p>City of Berkeley, Berkeley, CA</p>
-<p>Determined address service area using mapping software</p>
-<!-- -->
-<p>Managed grants investing in the urban tree canopy</p>
-<!-- -->
-<p>Reviewed parks ordinances with concerned public and elected officials for food production and temporary shelters caused by housing shortages</p>
+<section id="visualizing-census-data" class="level2">
+<h2 class="anchored" data-anchor-id="visualizing-census-data">Visualizing Census Data</h2>
+<p>For a lab, I had to download various 2020 Census data and map them.</p>
+<p>Figure 1 presents median income by county in California. It shows that the</p>
+<p>Figure 1: Median Income by County</p>
+<p><img src="images/clipboard-2449182646.png" class="img-fluid"></p>
+<p>Figure 2 shows the distribution of four racial categories across Conoma County.</p>
+<p>Figure 2: Racial Distribution</p>
+<p><img src="images/clipboard-294041286.png" class="img-fluid"></p>
+<p>Figure 3 presents the count of people under 18 across Sonoma County. The north, west and east parts of the county are more rural and generally have fewer young people. What could improve this map would be a presentation of the percent of the young people of the total population within the area.</p>
+<p>Figure 3: Distribution of and County of people under 18</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clipboard-3916933587.png" class="img-fluid figure-img"></p>
+<figcaption><br>
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="exploratory-data-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="exploratory-data-analysis">Exploratory Data Analysis</h2>
+<p>This lab was the introduction to the R Studio environment and basic visualizations.</p>
+<p>Figure 1 shows a population pyramid for the California by gender.</p>
+<p>Figure 1: Population Pyramid</p>
+<p><img src="images/clipboard-3372825492.png" class="img-fluid"></p>
+<p>Figure 2 shows the median income range per county in California. General trends show that more urbanized counties have higher incomes in tighter ranges and rural counties have lower incomes. However, there are two counties, Alpine and Mono which hug the east side of the Sierra Nevadas that present large ranges in variation.</p>
+<p>Figure 2: Median Houshold Income by County</p>
+<p><img src="images/clipboard-3546555487.png" class="img-fluid"></p>
+<p>Figure 3 compares the cities with the highest proportion of commuters that use public transit. New York leads with about 33% of its commuters taking public transit followed by San Francisco at about 18%.</p>
+<p>Figure 3: Proportion of Public Transportation Commute</p>
+<p><img src="images/clipboard-3068064416.png" class="img-fluid"></p>
 
 
 </section>
