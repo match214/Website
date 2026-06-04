@@ -14,25 +14,8 @@ about:
 
 ### Meet Matt.
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 Matt is a doctoral student in the department of Planning, Public Policy and Management at the University of Oregon. His degree is in Planning and Public Affairs, with a focus on how regional governance frameworks can replicate just city principles through multi-level participatory processes. When not opening too many articles to counts, Matt enjoys spending time with his wife, two kids - biking around town, going to baseball games, or building community.
 
-## Education
-
-University of Oregon | Eugene, OR
-PhD in Planning and Public Affairs | Sept 2024 - Present
-
-San Francisco State University | San Francisco, CA
-M.A in Public Administration | Sept 2013 - Dec 2015
-
-## Publications
-
-AV & Land Use | UCLA Mobility Center of Excellence | https://escholarship.org/uc/item/5wd2d9pm
-
-Learning from Housing Policy Innovation in Small and Midsize Cities Engaging the Community in Zoning Reform: Lessons from Oregon | SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400779
-
-
+## 
 :::
-
-### Experience and Education.
