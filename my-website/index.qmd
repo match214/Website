@@ -10,6 +10,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/match214
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/matthew-channing-63810114
 ---
 
 ### Meet Matt.
